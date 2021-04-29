@@ -19,6 +19,10 @@ _You will need to purchase the [Alfred Powerpack](https://www.alfredapp.com/powe
 
 # Changelog[¹](https://keepachangelog.com/)
 
+## [v0.1.1] - 2021-04-29
+### Added
+- Go to user on tw-rl with `@` keyword
+
 ## [v0.1.0] - 2021-04-29
 - Initial Release
 
